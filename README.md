@@ -6,6 +6,9 @@ Free capture SDKs and examples that help applications connect supported USB fing
 
 The public distribution is being prepared. Web/React and Android source and package candidates are under final component licence, deployment and release review. Windows production signing is deferred. No customer-ready package has been published from this repository yet.
 
+Read the [release policy](RELEASE_POLICY.md) before using any future package.
+Report vulnerabilities through the [private security contact](SECURITY.md).
+
 The WebSDK supports U.are.U 4500, ZK9500, BioMini Slim S20, Futronic FS80H, MSO 1300 E4, MSO 330 and MSO 300 in the tested browser configurations. U.are.U 5300 is excluded from the WebSDK. Platform-specific tested-device evidence and limitations will accompany each release.
 
 Independent Datanamix-owned SDK code is approved under Apache-2.0. Some reader modules and dependencies retain LGPL or other component terms. Future source and packages will include the licence scope, notices and corresponding source.
